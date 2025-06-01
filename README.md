@@ -67,20 +67,3 @@ Install dependencies using:
 ```bash
 pip install -r requirements.txt
 ```
-
-## 🚀 How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/Medical-Insurance-Prediction-using-ML-Model.git
-   cd Medical-Insurance-Prediction-using-ML-Model
-   ```
-
-2. Launch the Jupyter notebook:
-
-   ```bash
-   jupyter notebook
-   ```
-
-3. Open and run the cells in `Predicting Medical Insurance Cost with Machine Learning.ipynb`.
